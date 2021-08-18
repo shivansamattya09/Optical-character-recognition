@@ -120,7 +120,7 @@ class _MyAppState extends State<MyApp> {
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(10),
                       ),
-                      child:Text("Designed by Chirag",style: TextStyle(color: Colors.brown[400],letterSpacing: 8,fontWeight: FontWeight.bold,fontSize: 13.5,fontFamily: "Pacifico"),),
+                      child:Text("Designed by Shivansh Amattya",style: TextStyle(color: Colors.brown[400],letterSpacing: 8,fontWeight: FontWeight.bold,fontSize: 13.5,fontFamily: "Pacifico"),),
                     ),
                   ),
                 ),
